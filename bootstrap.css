@@ -1,0 +1,12 @@
+.bg_color
+{
+    background-color: red;
+}
+.border
+{
+    border: 2px black solid;
+}
+.size
+{
+    font-size: 30px;
+}
